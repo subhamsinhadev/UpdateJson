@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "url": "https://t.me/WSTprojects",
-    "changelog": "Bug fixes and performance improvements."
+  "latestVersion": "1.0",
+  "changelog": "New features added:\n- Feature A\n- Feature B\nBug fixes:\n- Fixed issue X\n- Improved performance",
+  "url": "https://your-download-link.com"
 }
